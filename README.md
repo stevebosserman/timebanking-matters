@@ -1,2 +1,2 @@
-# resilient-ideas-for-scrutiny
-Ideas for upcoming articles by Bill Fulkerson and Steve Bosserman that we offer to the GitHub community for feedback.
+# timebanking-matters
+Ideas for inclusion in the GitBook, Timebanking Matters, for consideration and feedback by the GitHub community.
