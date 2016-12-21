@@ -37,5 +37,3 @@ Thanks in advance for consideration of this invitation!
   * Is it necessary that Columbus become a “Sanctuary City”?
   * Is it necessary that other incorporated municipalities in Franklin County /  central Ohio declare themselves to be “Sanctuary Cities” as well?
   * Is it necessary that OSU \(maybe other universities\) become “Sanctuary Campuses”?
-
-
