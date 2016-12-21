@@ -26,7 +26,7 @@ Thanks in advance for consideration of this invitation!
 ## Reference Readings:
 
 [Churches Prepare to Shelter Immigrants from Trump](http://www.thedailybeast.com/articles/2016/12/04/will-churches-hide-illegal-immigrants-from-trump.html "Churches Prepare to Shelter Immigrants from Trump")   
-[Cities Developing Worker Co-ops: Efforts in Ten Cities](http://community-wealth.org/sites/clone.community-wealth.org/files/downloads/report-camou%20(1).pdf "Cities Developing Worker Co-ops: Efforts in Ten Cities"\)  
+[Cities Developing Worker Co-ops: Efforts in Ten Cities](http://community-wealth.org/sites/clone.community-wealth.org/files/downloads/report-camou%20(1).pdf "Cities Developing Worker Co-ops: Efforts in Ten Cities"))
 [Universities Exploring ‘Sanctuary’ Status](http://digital.olivesoftware.com/Olive/ODN/ColumbusDispatch/TranslateArticle.aspx?doc=TCD%2F2016%2F12%2F04&entity=ar00301 "Universities Exploring 'Sanctuary' Status")  
 [Mayors Pledge to Protect Undocumented Immigrants](http://digital.olivesoftware.com/Olive/ODN/ColumbusDispatch/TranslateArticle.aspx?doc=TCD%2F2016%2F11%2F16&entity=ar00300 "Mayors Pledge to Protect Undocumented Immigrants")  
 [Sanctuary City-Description](https://en.wikipedia.org/wiki/Sanctuary_city "Sanctuary City-Description")
@@ -38,5 +38,4 @@ Thanks in advance for consideration of this invitation!
   * Is it necessary that other incorporated municipalities in Franklin County /  central Ohio declare themselves to be “Sanctuary Cities” as well?
   * Is it necessary that OSU \(maybe other universities\) become “Sanctuary Campuses”?
 
-Test publication
 
