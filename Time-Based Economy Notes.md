@@ -1,10 +1,9 @@
-# Notes about a Time-Based Economy
+# Time-Based Economy Notes
 
-## Introduction
+## Summary Points
 All time in this world is consumed with interactions: self; natural environment; people; manmade things; and, unseen and unknown
 
-Those interactions are spread among the five levels of [Maslow's Hierarchy of Needs](https://www.simplypsychology.org/maslow.html "Maslow's Hierarchy of Needs") \<sup\>1\</sup\>
-![](https://drive.google.com/open?id=0BxdGRSb8tFu1UEtqTURqLXNWZ1k "Maslow's Hierarchy of Needs")
+Those interactions are spread among the five levels of [Maslow's Hierarchy of Needs](https://www.simplypsychology.org/maslow.html)  [1]
 
 One distributes time daily between sleep and wakefulness; public and private activities; and meeting Maslow's Hierarchy of Needs 
 
@@ -20,4 +19,4 @@ An ethical framework consisting of the principles and values germane to a partic
 
 Social system governance mandates policy that converts into legal parameters to assure the power structure conforms to the ethical framework and influences the behaviors of system members
 
-\<a name="myfootnote1"\>1\</a\>: McLeod, S. A. (2016). Maslow's Hierarchy of Needs. Retrieved from www.simplypsychology.org/maslow.html
+[1] McLeod, S. A. (2016). Maslow's Hierarchy of Needs. Retrieved from www.simplypsychology.org/maslow.html
