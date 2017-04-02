@@ -3,7 +3,9 @@
 ## Summary Points
 All time in this world is consumed with interactions: self; natural environment; people; manmade things; and, unseen and unknown
 
-Those interactions are spread among the five levels of [Maslow's Hierarchy of Needs](https://www.simplypsychology.org/maslow.html)  [1]
+Those interactions are spread among the five levels of [Maslow's Hierarchy of Needs](https://www.simplypsychology.org/maslow.html)[1]
+
+[IMG](https://github.com/stevebosserman/timebanking-matters/blob/master/maslow-pyramid.jpg)
 
 One distributes time daily between sleep and wakefulness; public and private activities; and meeting Maslow's Hierarchy of Needs 
 
