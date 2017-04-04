@@ -22,6 +22,9 @@ All time in this world is consumed with interactions: self; natural environment;
 ### Theme Two: 
 Those interactions are spread among the five original and three extended (cognitive, aesthetic, and transcendence) levels of [Maslow's Hierarchy of Needs](https://www.simplypsychology.org/maslow.html) [1]
 
+### Theme Three: 
+One distributes time daily between sleep and wakefulness; public and private activities; and meeting Maslow's Hierarchy of Needs
+
 ## Part Two: The Individual and the Community
 ### Theme Four: 
 While one can exist by oneself, it is easier to meet basic needs when interacting with others who have common goals
